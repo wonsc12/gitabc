@@ -1,4 +1,5 @@
 1. 첫줄 입력(수정)
+2. 두번째 줄 입력
 
 echo "# gitabc" >> README.md
 git init
